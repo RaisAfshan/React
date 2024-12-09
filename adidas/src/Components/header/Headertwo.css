@@ -1,0 +1,11 @@
+.navtwo{
+    background-color:white;
+    height: 27px;
+}
+.navtwo .nav-link{
+    font-size: 12px;
+}
+
+.navtwo .nav-link:hover{
+    text-decoration: underline;
+}

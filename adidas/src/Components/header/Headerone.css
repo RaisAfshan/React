@@ -1,0 +1,11 @@
+.navone{
+    height: 35px;
+    
+}
+.navone .nav-link{
+    font-size: 12px;
+    font-weight:bold;
+}
+body{
+    font-family: "AdihausDIN, Helvetica, Arial, sans-serif";
+}

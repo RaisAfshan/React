@@ -1,0 +1,34 @@
+.coverHeader{
+    font-size: 5rem;
+    color: white;
+    font-weight: 700;
+    position: relative;
+    
+}
+/* .coverHeader::before{
+    background-color: #49c5b6;
+    content: "";
+    display:block;
+    height: 3px;
+    width: 300px;
+    margin-bottom: 5px;
+}
+.coverHeader::after{
+    background-color: #49c5b6;
+    content: "";
+    display:block;
+    position: absolute;
+    left: 33.6%;
+    bottom: 0;
+    height: 3px;
+    width: 300px;
+    margin-top: 0.2em;
+
+} */
+.cardTitle{
+    color:#49c5b6;
+}
+.card{
+    background-color: #222629;
+    color:white;
+}

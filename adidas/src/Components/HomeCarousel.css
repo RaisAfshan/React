@@ -1,0 +1,19 @@
+.over{
+    transform:translate(50%);
+}
+.overlay {
+    z-index: 10; /* Ensures the overlay is above the image */
+    min-height: 30%; /* Adjust height based on content */
+}
+
+@media (max-width: 768px) {
+    .overlay h2 {
+        font-size: 1.5rem;
+    }
+    .overlay p {
+        font-size: 1rem;
+    }
+    .overlay {
+        padding: 2rem;
+    }
+}

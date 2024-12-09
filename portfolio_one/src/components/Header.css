@@ -1,0 +1,10 @@
+.navlink{
+    color:#49c5b6
+}
+.navlink:hover{
+    color:white;
+    background-color: black;
+}
+.navbar{
+    background-color:#222629;
+}

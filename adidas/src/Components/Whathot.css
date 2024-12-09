@@ -1,0 +1,17 @@
+.cardwhat .card-title{
+    font-size: 17px;
+}
+.cardwhat .card-subtitle{
+    font-size: 14px;
+}
+.cardwhat .card-link{
+    color:black;
+    transition: all .3s;
+    font-size: 15px;
+    font-weight: 500;
+}
+.cardwhat .card-link:hover{
+    color:white;
+    background-color: black;
+    text-decoration-color: black;
+}

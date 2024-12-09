@@ -1,0 +1,14 @@
+.imagecard .card-link{
+    color:black;
+    font-weight: 600;
+    position:relative;
+    transition: all .3s;
+}
+
+.imagecard .card-link:hover{
+    position:absolute;
+    color:white;
+    background-color: black;
+    text-decoration-color: black;
+    
+}
